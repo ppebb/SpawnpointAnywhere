@@ -1,0 +1,1 @@
+Set Spawnpoint Anywhere removes the check for a valid room when setting your spawnpoint with a bed, meaning you no longer need a house to set your spawnpoint.

@@ -1,0 +1,4 @@
+displayName = Set Spawnpoint Anywhere
+author = ppeb
+version = 0.1
+homepage = https://github.com/ppebb/SpawnpointAnywhere
